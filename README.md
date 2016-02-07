@@ -1,4 +1,5 @@
-# SonnY-WebFont
+# SonnY WebFont Boilerplate
+
 ## SVG to webfont converter using grunt-webfont
 
 ## Installation
